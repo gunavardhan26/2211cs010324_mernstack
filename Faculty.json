@@ -1,0 +1,50 @@
+[
+ {
+  "Name": "Dr. Meeravali Shaikh",
+  "Designation": "HOD",
+  "Experience": 13,
+  "qualification": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)"
+ },
+ {
+  "Name": "Dr.Arun Singh Chouhan",
+  "Designation": "Associate Professor",
+  "Experience": 15,
+  "qualification": "B.E (CSE), M. Tech (CSE), Ph. D (CSE)"
+ },
+ {
+  "Name": "Dr.M.Narayanan",
+  "Designation": "Professor",
+  "Experience": 17,
+  "qualification": "B.E (CSE), M.E (CSE), Ph. D (CSE)"
+ },
+ {
+  "Name": "Dr.M.Ravikanth",
+  "Designation": "Associate Professor",
+  "Experience": 17,
+  "qualification": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)"
+ },
+ {
+  "Name": "Dr.B.Jogeswara Rao",
+  "Designation": "Associate Professor",
+  "Experience": 13,
+  "qualification": "MSc (Comp), M. Tech (CSE), Ph. D (CSE)"
+ },
+ {
+  "Name": "Dr.M.Santhosh Kumar Goud",
+  "Designation": "Assistant Professor",
+  "Experience": 13,
+  "qualification": "B.Tech (EEE), MS(Photonics), Ph. D (EEE)"
+ },
+ {
+  "Name": "Dr. P. Aurchana",
+  "Designation": "Assistant Professor",
+  "Experience": 7,
+  "qualification": "MCA, M. Tech (CSE), Ph. D (CSE)"
+ },
+ {
+  "Name": "Mr. M.Gouthamm",
+  "Designation": "Assistant Professor",
+  "Experience": 9,
+  "qualification": "B. Tech (CSE), M. Tech (CSE)"
+ }
+]
