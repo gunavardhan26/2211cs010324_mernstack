@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/2211cs010324_mernstack/static/css/main.5223f11b.css",
-    "main.js": "/2211cs010324_mernstack/static/js/main.24ad068e.js",
-    "static/js/592.f9df0393.chunk.js": "/2211cs010324_mernstack/static/js/592.f9df0393.chunk.js",
-    "index.html": "/2211cs010324_mernstack/index.html",
-    "main.5223f11b.css.map": "/2211cs010324_mernstack/static/css/main.5223f11b.css.map",
-    "main.24ad068e.js.map": "/2211cs010324_mernstack/static/js/main.24ad068e.js.map",
-    "592.f9df0393.chunk.js.map": "/2211cs010324_mernstack/static/js/592.f9df0393.chunk.js.map"
+    "main.css": "/Volunteer-Verse/static/css/main.ca7fb8c1.css",
+    "main.js": "/Volunteer-Verse/static/js/main.bd689a5e.js",
+    "static/js/453.0075d1ac.chunk.js": "/Volunteer-Verse/static/js/453.0075d1ac.chunk.js",
+    "static/media/volunteer.jpg": "/Volunteer-Verse/static/media/volunteer.db751bed85f8e2e126e3.jpg",
+    "static/media/istockphoto-1303107115-612x612.jpg": "/Volunteer-Verse/static/media/istockphoto-1303107115-612x612.0df39b92f0deb80c22ee.jpg",
+    "static/media/jpg": "/Volunteer-Verse/static/media/15cffb84be2ece7fb38074d5692dad52.b5db3c71dd7490fe209a.jpg",
+    "index.html": "/Volunteer-Verse/index.html",
+    "main.ca7fb8c1.css.map": "/Volunteer-Verse/static/css/main.ca7fb8c1.css.map",
+    "main.bd689a5e.js.map": "/Volunteer-Verse/static/js/main.bd689a5e.js.map",
+    "453.0075d1ac.chunk.js.map": "/Volunteer-Verse/static/js/453.0075d1ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5223f11b.css",
-    "static/js/main.24ad068e.js"
+    "static/css/main.ca7fb8c1.css",
+    "static/js/main.bd689a5e.js"
   ]
 }
